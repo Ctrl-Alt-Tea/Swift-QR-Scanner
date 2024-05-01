@@ -127,7 +127,7 @@ struct ScanView: View {
                         self.scannedCode = code
                     })
                     .edgesIgnoringSafeArea(.all)
-                   // GeometryReader { proxy in
+                   // GeometryReader { proxy in                                                  // Viewfinder Image (Has alignment issue)
                         VStack(alignment: .center) {
                             Image(systemName: "viewfinder")
                                // .renderingMode(.original)
