@@ -16,6 +16,4 @@ It has been built using Swift UI and UIKit and ***supports IOS 16.0+***
 
 
 
-📧 Feel free to reach out to me dylanrose.sa@gmail.com 
 
-💵 Would you like to donate? Zapper - https://zapper.com/url/35YuJE2wk3
